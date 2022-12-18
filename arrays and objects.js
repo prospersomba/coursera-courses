@@ -1,0 +1,13 @@
+var clothes = [];
+clothes.push("shoes");
+clothes.push("pyjamas");
+clothes.push("shirts");
+clothes.push("trousers");
+clothes.push("boxers");
+clothes.pop();
+clothes.push("bag");
+console.log(clothes[2]);
+var favCar = {};
+favCar.color = "Blue";
+favCar.convertible = true;
+console.log(favCar);
